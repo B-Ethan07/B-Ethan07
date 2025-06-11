@@ -9,12 +9,8 @@ I'm a **Student Developer (Front End)** passionate about building creative proje
 - 🌱 Always curious, always experimenting with new tech
 - 🚀 I love building things that make learning and creativity accessible to everyone
 
-###
-<br clear="both">
 
-<h4 align="left">## What I know :</h4>
-
-###
+## What I know :</h4>
 
 <br clear="both">
 
@@ -30,11 +26,8 @@ I'm a **Student Developer (Front End)** passionate about building creative proje
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
 </div>
 
-###
+## What I will learn :
 
-<h4 align="left">## What I will learn :</h4>
-
-###
 
 <br clear="both">
 
@@ -62,12 +55,11 @@ I'm a **Student Developer (Front End)** passionate about building creative proje
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" alt="kotlin logo"  />
 </div>
 
-###
 
 ## 🏆 Achievements
 
 - Self-taught coder: learned programming independently before formal studies
-- Completed a developer training program to sharpen my skills
+- Completing a developer training program to sharpen my skills
 
 ## 🔗 Connect with Me
 
