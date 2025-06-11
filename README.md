@@ -33,25 +33,25 @@ I'm a **Student Developer (Front End)** passionate about building creative proje
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="angularjs logo"  />
-  <img width="32" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
-  <img width="32" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
-  <img width="32" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo"  />
-  <img width="32" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
-  <img width="32" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
-  <img width="32" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="45" alt="symfony logo"  />
-  <img width="32" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="45" alt="wordpress logo"  />
-  <img width="32" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="45" alt="ionic logo"  />
-  <img width="32" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo"  />
-  <img width="32" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" alt="kotlin logo"  />
 </div>
 
