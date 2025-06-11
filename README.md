@@ -9,12 +9,67 @@ I'm a **Student Developer (Front End)** passionate about building creative proje
 - 🌱 Always curious, always experimenting with new tech
 - 🚀 I love building things that make learning and creativity accessible to everyone
 
-## 🌟 Favorite Projects
+###
+<br clear="both">
 
-- **Educ'Easy**  
-  My latest project dedicated to making education easier and more interactive.
-- [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning.git)  
-  A fantastic resource I use to learn by building real, hands-on projects.
+<h4 align="left">## What I know :</h4>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="47" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="47" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="47" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
+  <img width="47" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
+</div>
+
+###
+
+<h4 align="left">## What I will learn :</h4>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="angularjs logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="45" alt="symfony logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="45" alt="wordpress logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="45" alt="ionic logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" alt="kotlin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/B-Ethan07/B-Ethan07/output/snake.svg" alt="Snake animation" />
+
+###
+###
 
 ## 🏆 Achievements
 
@@ -25,9 +80,7 @@ I'm a **Student Developer (Front End)** passionate about building creative proje
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ethan%20Boulard-blue?logo=linkedin&style=flat-square)](https://fr.linkedin.com/in/ethan-boulard-4b1112364?original_referer=https%3A%2F%2Fwww.linkedin.com%2F)
 
-## 💡 Fun Fact
-
-> _"We learn everyday."_
+###
 
 ---
 
