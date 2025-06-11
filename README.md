@@ -5,7 +5,7 @@ I'm a **Student Developer (Front End)** passionate about building creative proje
 ## 👨‍💻 About Me
 
 - 🎓 Currently studying and self-learning web development
-- 🛠️ **Top Skills:** Javascript, React, Angular
+- 🛠️ **Top Skills:** Javascript
 - 🌱 Always curious, always experimenting with new tech
 - 🚀 I love building things that make learning and creativity accessible to everyone
 
