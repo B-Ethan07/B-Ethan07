@@ -64,13 +64,6 @@ I'm a **Student Developer (Front End)** passionate about building creative proje
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/B-Ethan07/B-Ethan07/output/snake.svg" alt="Snake animation" />
-
-###
-###
-
 ## 🏆 Achievements
 
 - Self-taught coder: learned programming independently before formal studies
