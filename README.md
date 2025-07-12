@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm a **Web & Mobile Developer** passionate about building clean, responsive, and user-focused applications.  
+I'm a **Student Web & Mobile Developer** passionate about building clean, responsive, and user-focused applications.  
 I work on both the **front-end** and **back-end**, with experience across a wide range of technologies and frameworks.
 
 ---
