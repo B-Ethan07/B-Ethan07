@@ -17,16 +17,16 @@ Check out my personal portfolio to see my projects, skills, and background:
 ## 🧠 Skills
 
 **Front-end:**  
-`HTML` • `CSS` • `Bootstrap` • `JavaScript` • `jQuery` • `Angular` • `Flutter`
+`HTML` • `CSS` • `Bootstrap` • `JavaScript` • `jQuery` • `Angular` 
 
 **Back-end:**  
-`PHP` • `MySQL` • `Symfony` • `MongoDB` • `PDO`
+`PHP` •`Symfony` • `MySQL` • `MongoDB` 
 
 **Mobile & CMS:**  
-`Flutter` • `Kotlin` • `WordPress` • `WooCommerce`
+`Flutter` • `Kotlin` • `WordPress` • `WooCommerce` 
 
 **Other Tools:**  
-`Git` • `GitHub` • `REST APIs` • `Responsive Design`
+`Git` • `GitHub` • `REST APIs` • `Responsive Design` • `Figma` • `SCRUM`
 
 ---
 
