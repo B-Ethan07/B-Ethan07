@@ -20,13 +20,13 @@ Check out my personal portfolio to see my projects, skills, and background:
 `HTML` • `CSS` • `Bootstrap` • `JavaScript` • `jQuery` • `Angular` 
 
 **Back-end:**  
-`PHP` •`Symfony` • `MySQL` • `MongoDB` 
+`PHP` •`Symfony` • `MySQL` • `MongoDB` • `Nodejs` • `ExpressJs`
 
 **Mobile & CMS:**  
 `Flutter` • `Kotlin` • `WordPress` • `WooCommerce` 
 
 **Other Tools:**  
-`Git` • `GitHub` • `REST APIs` • `Responsive Design` • `Figma` • `SCRUM`
+`Git` • `GitHub` • `REST APIs` • `Responsive Design` • `Figma` • `SCRUM` • `Postman`
 
 ---
 
