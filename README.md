@@ -7,14 +7,14 @@ I work on both the **front-end** and **back-end**, with experience across a wide
 
 ---
 
-## 💼 Portfolio
+## Portfolio
 
 Check out my personal portfolio to see my projects, skills, and background:  
 🔗 [b-ethan07.github.io/portfolio](https://b-ethan07.github.io/portfolio)
 
 ---
 
-## 🧠 Skills
+## Skills
 
 **Front-end:**  
 `HTML` • `CSS` • `Bootstrap` • `JavaScript` • `jQuery` • `Angular` 
@@ -30,7 +30,7 @@ Check out my personal portfolio to see my projects, skills, and background:
 
 ---
 
-## 📌 Projects Highlights
+## Projects Highlights
 
 - 🛒 **Mini E-Commerce**  
   Front-end web application using DummyJSON API. Includes dynamic product pages, cart management, and mobile responsiveness.  
