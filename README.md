@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Ethan — @B-Ethan07
+# Welcome to my GitHub!
 
-Welcome to my GitHub!
 
-I'm a **Student Web & Mobile Developer** passionate about building clean, responsive, and user-focused applications.  
+
+I'm **Ethan a Student Web & Mobile Developer** passionate about building clean, responsive, and user-focused applications.  
 I work on both the **front-end** and **back-end**, with experience across a wide range of technologies and frameworks.
 
 ---
