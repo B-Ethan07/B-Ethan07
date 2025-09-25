@@ -30,18 +30,6 @@ Check out my personal portfolio to see my projects, skills, and background:
 
 ---
 
-## Projects Highlights
-
-- 🛒 **Mini E-Commerce**  
-  Front-end web application using DummyJSON API. Includes dynamic product pages, cart management, and mobile responsiveness.  
-  [View Project](https://b-ethan07.github.io/e_commerce/) • [Source Code](https://github.com/B-Ethan07/e_commerce)
-
-- 📚 **Educ’easy**  
-  A full-stack blog for parents. Users can browse and submit articles. Built with PHP, MySQL, and Bootstrap.  
-  [Source Code](https://github.com/B-Ethan07/educ-easy)
-
----
-
 ###
 
 <div align="center">
