@@ -29,16 +29,6 @@ Check out my personal portfolio to see my projects, skills, and background:
 `Git` • `GitHub` • `REST APIs` • `Responsive Design` • `Figma` • `SCRUM` • `Postman`
 
 ---
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B-Ethan07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=B-Ethan07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
----
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ethan%20Boulard-blue?logo=linkedin&style=flat-square)](https://fr.linkedin.com/in/ethan-boulard-4b1112364?original_referer=https%3A%2F%2Fwww.linkedin.com%2F)
