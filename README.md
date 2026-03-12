@@ -17,21 +17,13 @@ Check out my personal portfolio to see my projects, skills, and background:
 ## Skills
 
 **Front-end:**  
-`HTML` • `CSS` • `Bootstrap` • `JavaScript` • `jQuery` • `Angular` 
+`Flutter` • `React` • `Angular` 
 
 **Back-end:**  
-`PHP` •`Symfony` • `MySQL` • `MongoDB` • `Nodejs` • `ExpressJs`
-
-**Mobile & CMS:**  
-`Flutter` • `WordPress` • `WooCommerce` 
-
-**Other Tools:**  
-`Git` • `GitHub` • `REST APIs` • `Responsive Design` • `Figma` • `SCRUM` • `Postman`
+`PHP` • `Symfony` • `MySQL` • `MongoDB` • `ExpressJs` • `FastAPI`
 
 ---
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Ethan07&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=64748b&bg_color=00000000)
-
 ---
 
 ## 🔗 Connect with Me
