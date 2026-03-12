@@ -29,9 +29,10 @@ Check out my personal portfolio to see my projects, skills, and background:
 `Git` • `GitHub` • `REST APIs` • `Responsive Design` • `Figma` • `SCRUM` • `Postman`
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=B-Ethan07&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=8b5cf6&text_color=64748b&bg_color=00000000)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Ethan07&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=64748b&bg_color=00000000)
+
+---
 
 ## 🔗 Connect with Me
 
