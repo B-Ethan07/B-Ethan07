@@ -13,16 +13,6 @@ Check out my personal portfolio to see my projects, skills, and background:
 🔗 [b-ethan07.github.io/portfolio](https://b-ethan07.github.io/portfolio)
 
 ---
-
-## Skills
-
-**Front-end:**  
-`Flutter` • `React` • `Angular` 
-
-**Back-end:**  
-`PHP` • `Symfony` • `MySQL` • `MongoDB` • `ExpressJs` • `FastAPI`
-
----
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Ethan07&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=64748b&bg_color=00000000)
 ---
 
