@@ -2,7 +2,7 @@
 
 
 
-I'm **Ethan a Student Web & Mobile Developer** passionate about building clean, responsive, and user-focused applications.  
+I'm **Ethan a Software Developer** passionate about building clean, responsive, and user-focused applications.  
 I work on both the **front-end** and **back-end**, with experience across a wide range of technologies and frameworks.
 
 ---
