@@ -3,8 +3,6 @@
 I'm Ethan a Front-end & Mobile Developer passionate about building clean, responsive, and user-focused applications.  
 I work on both **web-site** and **mobile app**, with experience across a wide range of technologies and frameworks.
 
----
-
 ## Portfolio & Linkedin
 
 Check out my personal portfolio to see my projects, skills, and background: [b-ethan07.github.io/portfolio](https://b-ethan07.github.io/portfolio)
