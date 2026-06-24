@@ -5,7 +5,7 @@ I work on both **web-site** and **mobile app**, with experience across a wide ra
 
 ## Portfolio & Linkedin
 
-Check out my personal portfolio to see my projects, skills, and background: [b-ethan07.github.io/portfolio](https://b-ethan07.github.io/portfolio)
+Check out my personal portfolio to see my projects, skills, and background: [(https://ethanb-portfolio.vercel.app)](https://ethanb-portfolio.vercel.app)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ethan%20Boulard-blue?logo=linkedin&style=flat-square)](https://fr.linkedin.com/in/ethan-boulard-4b1112364?original_referer=https%3A%2F%2Fwww.linkedin.com%2F)
 
