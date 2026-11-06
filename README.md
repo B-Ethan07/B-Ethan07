@@ -1,6 +1,6 @@
-# Hi I'm Ethan
+# Ethan Boulard
 
-**Full-Stack Flutter Developer**
+**Full-Stack Developer, Flutter specialist**
 Web, mobile and desktop applications, from design to production.
 
 ## What I do
@@ -13,7 +13,15 @@ Web, mobile and desktop applications, from design to production.
 
 ## Stack
 
-Flutter, Dart, Python, TypeScript, Node.js, Firebase, GitHub Actions, Docker, Vercel
+I adapt to the project and the team rather than the other way around.
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Dart, JavaScript, TypeScript, Python, SQL |
+| **Front-end** | Flutter, React, Angular, Vue.js |
+| **Back-end** | Express, FastAPI |
+| **Databases** | SQL databases, Firebase |
+| **DevOps** | GitHub Actions, Docker, Vercel |
 
 ## Contact
 
