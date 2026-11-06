@@ -1,4 +1,4 @@
-# Ethan Boulard
+# Hi I'm Ethan
 
 **Full-Stack Flutter Developer**
 Web, mobile and desktop applications, from design to production.
