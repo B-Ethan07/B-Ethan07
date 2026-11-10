@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ethan
+# Hi, I'm Ethan 👋
 
 **Full-Stack Developer, Flutter specialist**
 Web, mobile and desktop applications, from design to production.
